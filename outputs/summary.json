@@ -1,0 +1,22 @@
+{
+  "backtest_years": [
+    2018,
+    2026
+  ],
+  "interval_coverage_national": 0.9314285714285714,
+  "n_spike_alerts_national": 4,
+  "rmse_skill_vs_ma4_pct": {
+    "division|CFIT": 10.2,
+    "division|LOC-I": 16.4,
+    "division|MAC": 6.0,
+    "division|RE": 7.3,
+    "division|RI": 3.4,
+    "division|ALL": 12.1,
+    "national|CFIT": 6.9,
+    "national|LOC-I": 38.8,
+    "national|MAC": 5.7,
+    "national|RE": 23.9,
+    "national|RI": -12.2,
+    "national|ALL": 30.6
+  }
+}
